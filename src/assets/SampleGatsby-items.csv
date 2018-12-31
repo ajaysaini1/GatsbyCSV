@@ -1,0 +1,6 @@
+PostName,Date,slug,Category,Header1,body1,image,new
+This is an Apple,2019/12/10,thisisapple1,apple,What`s Apple,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,apple1.jpg,0
+This is a Banana,2019/12/11,thisisbanana,banana,What`s Banana,bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb,banana.jpg,0
+This is an Apple2,2019/12/12,thisisapple2,apple,What`s Apple,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,apple2.jpg,0
+This is an Apple3,2019/12/13,thisisapple3,apple,What`s Apple,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,apple3.jpg,1
+This is an Apple4,2019/12/14,thisisapple4,apple,What`s Apple,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,apple4.jpg,1
